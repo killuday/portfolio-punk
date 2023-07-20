@@ -1,7 +1,10 @@
 import React from 'react';
 
 const About = () => {
-  return <div className='section'>About</div>;
+  return <div id='about' className='section'>
+    About
+    </div>;
+  
 };
 
 export default About;

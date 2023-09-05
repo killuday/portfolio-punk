@@ -34,18 +34,18 @@ const services = [
 const Services = () => {
   return (
     <div id="services" className="section">
-      <div className="container mx-auto">
+      <div className="container mx-auto mt-20">
         <div className="flex flex-col lg:flex-row">
           <motion.div
             variants={fadeIn("right", 0.3)}
             initial="hidden"
             whileInView="show"
             viewport={{ once: false, amount: 0.3 }}
-            className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat  mix-blend-lighten mb-12 lg:mb-0 "
+            className="flex-1 lg:bg-services lg:bg-bottom bg-no-repeat h-[860px]  mix-blend-lighten mb-12 lg:mb-0 "
           >
             <h2 className="h2 text-accent mb-6">What I do</h2>
             <h3 className="h3 max-w-[455px] mb-16">
-              I am a front end developer with 1 year experience
+            I am an enthusiastic front-end developer .
             </h3>
             <button className="btn btn-sm">See My Work</button>
           </motion.div>

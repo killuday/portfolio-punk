@@ -30,19 +30,24 @@ const About = () => {
           >
             <h2 className="h2 text-accent">About Me</h2>
             <h3 className="h3 mb-4 ">
-              I am a lorem lipsum lorem lipusm orem pllso dkjfw dfjwbfkweno
+              I am a front-end developer with a passion for crafting captivating
+              web experiences.
             </h3>
             <p className="mb-6 ">
               {" "}
-              lorem lipsum lorem lipusm orem pllso dkjfw dfjwbfkweno lorem
-              lipsum lorem lipusm orem pllso dkjfw dfjwbfkwenolorem lipsum lorem
-              lipusm orem pllso.
+              With expertise in HTML, CSS, JavaScript, and a strong foundation
+              in modern UI and CSS frameworks, I bring your web projects to
+              life. I specialize in utilizing the power of React and Next.js for
+              building dynamic, feature-rich web applications. Additionally, I'm
+              well-versed in creating visually appealing interfaces with the
+              efficiency of Tailwind CSS.
             </p>
             {/*Stats */}
             <div className="flex gap-x-6 lg:gap-x-10 mb-12  ">
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
-                  {inView ? <CountUp start={0} end={13} duration={3} /> : null}
+                  {inView ? <CountUp start={0} end={1} duration={3} /> : null}
+                  +
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
                   Years of <br />
@@ -52,7 +57,7 @@ const About = () => {
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
                   {inView ? <CountUp start={0} end={15} duration={3} /> : null}
-                  k+
+                  +
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
                   Projects <br />
@@ -62,7 +67,7 @@ const About = () => {
               <div>
                 <div className="text-[40px] font-tertiary text-gradient mb-2">
                   {inView ? <CountUp start={0} end={12} duration={3} /> : null}
-                  k+
+                  +
                 </div>
                 <div className="font-primary text-sm tracking-[2px]">
                   Statisfied <br />

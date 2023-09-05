@@ -37,4 +37,4 @@ If you find any issues or want to contribute to this project, feel free to open 
 
 ---
 
-Thanks for checking out my punk-type React and Tailwind CSS portfolio! I hope you like it! 😊 If you have any questions or just want to say hi, feel free to contact me at [your.email@example.com](mailto:your.email@example.com) or visit my website [www.yourportfolio.com](https://www.yourportfolio.com). Let's connect and rock on together! 🎸🤘
+Thanks for checking out my punk-type React and Tailwind CSS portfolio! I hope you like it! 😊 If you have any questions or just want to say hi, feel free to contact me at udaybhanu@hey.com or visit my website https://portfolio-killuday.vercel.app. Let's connect and rock on together! 🎸🤘
